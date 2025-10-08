@@ -12,5 +12,4 @@ add_executable(SmartCache ${SRC_FILES})
 target_include_directories(SmartCache PRIVATE include)
 
 # GoogleTest setup (optional, Week 2)
-enable_testing()
 add_subdirectory(tests)

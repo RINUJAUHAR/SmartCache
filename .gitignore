@@ -1,5 +1,6 @@
 # Build artifacts
 /build/
+Documentation/
 CMakeFiles/
 CMakeCache.txt
 *.o
